@@ -1,6 +1,6 @@
 # COMMUNICATION SKILLS
 Self Introduction
- > formal
- > informal
+formal
+informal
 debate
 why data science and data analytics??
