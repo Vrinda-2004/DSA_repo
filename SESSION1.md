@@ -1,6 +1,4 @@
-# DSA_repo
-A repository explaining each class sessions
-
+# DSA NOTES
 ## SHORTCUTS
 Windows + x - system 
 
